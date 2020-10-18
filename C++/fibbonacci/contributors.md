@@ -1,4 +1,4 @@
-#Desription of the Algorithm
+# Desription of the Algorithm<br/>
 -Start<br/>
 -Declare variables i, no1,no2,no3<br/>
 -Initialize the variables, no1=0, no2=1, and no3 =0<br/>
@@ -13,7 +13,7 @@
 End<br/>
 
 
-#Sample Input Output<br/>
+# Sample Input Output<br/>
 Enter the number of elements 10<br/>                                                                         
 Series are : 0 1 1 2 3 5 8 13 21 34 <br/>      
 Contributed by <br/>[Nishant Sabbarwal](https://github.com/Nishant3007)
