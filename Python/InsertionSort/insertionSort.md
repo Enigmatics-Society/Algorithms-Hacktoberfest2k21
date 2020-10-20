@@ -5,7 +5,7 @@
 - If the key element is smaller than its predecessor, than shift the predecessor element   right.
 - Check the above condition for every element which are on the left side of the key       element.
 - Insert the key element at its proper position.
-- Print the list(numbers).
+- Print the list(numbers).<br/>
 -End
 
 # Sample Input Output<br/>
