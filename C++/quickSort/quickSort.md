@@ -7,16 +7,16 @@ End<br/>
 
 
 # Sample Input Output<br/>
-Enter the number of elements:8
-Enter the element:34
-Enter the element:23
-Enter the element:56
-Enter the element:10
-Enter the element:15
-Enter the element:9
-Enter the element:20
-Enter the element:4
-Sorted array is:4 9 10 15 20 23 34 56
+Enter the number of elements:8<br>
+Enter the element:34<br>
+Enter the element:23<br>
+Enter the element:56<br>
+Enter the element:10<br>
+Enter the element:15<br>
+Enter the element:9<br>
+Enter the element:20<br>
+Enter the element:4<br>
+Sorted array is:4 9 10 15 20 23 34 56<br/>
 
 
 Contributed by: [Akshant chaudhary](https://github.com/akshantchaudhary09)
