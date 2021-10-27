@@ -1,0 +1,7 @@
+C:\Users\D C Jain\Desktop\AugustC#\SoloLearn\Dance\Dance\bin\Debug\Dance.exe.config
+C:\Users\D C Jain\Desktop\AugustC#\SoloLearn\Dance\Dance\bin\Debug\Dance.exe
+C:\Users\D C Jain\Desktop\AugustC#\SoloLearn\Dance\Dance\bin\Debug\Dance.pdb
+C:\Users\D C Jain\Desktop\AugustC#\SoloLearn\Dance\Dance\obj\Debug\Dance.csproj.AssemblyReference.cache
+C:\Users\D C Jain\Desktop\AugustC#\SoloLearn\Dance\Dance\obj\Debug\Dance.csproj.CoreCompileInputs.cache
+C:\Users\D C Jain\Desktop\AugustC#\SoloLearn\Dance\Dance\obj\Debug\Dance.exe
+C:\Users\D C Jain\Desktop\AugustC#\SoloLearn\Dance\Dance\obj\Debug\Dance.pdb
